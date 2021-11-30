@@ -1,5 +1,5 @@
 # greet2-spring-boot-starter
-自定义springboot starter
+自定义springboot starter(不会写md文件，好困难啊，学会之后再来改样子)
 # 新建一个springboot项目 
 项目名 greet2-spring-boot-starter
 源码包路径 com.study.zjl.greet2
