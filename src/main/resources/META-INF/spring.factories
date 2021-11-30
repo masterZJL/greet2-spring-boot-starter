@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.study.zjl.greet2.properties.GreetAutoConfigration
